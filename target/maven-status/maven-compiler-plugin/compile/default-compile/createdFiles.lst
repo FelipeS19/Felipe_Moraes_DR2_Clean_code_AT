@@ -1,0 +1,13 @@
+com\company\logistics\util\MoneyFormatter.class
+com\company\logistics\frete\CalculadoraFrete.class
+com\company\logistics\service\PromocaoService.class
+com\company\logistics\domain\Entrega.class
+com\company\logistics\domain\FreteType.class
+com\company\logistics\domain\exception\FreteNotFoundException.class
+com\company\logistics\frete\FreteEconomico.class
+com\company\logistics\frete\FreteRegistry.class
+com\company\logistics\frete\FreteExpresso.class
+com\company\logistics\frete\FretePadrao.class
+com\company\logistics\service\EtiquetaService.class
+com\company\logistics\domain\exception\InvalidEntregaException.class
+com\company\logistics\domain\Main.class
